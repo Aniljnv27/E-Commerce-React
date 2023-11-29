@@ -13,24 +13,18 @@ https://e-commercee-ibsg.onrender.com
 - Fully Responsive
 
 
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
-
-
-
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+  git clone https://github.com/Aniljnv27/E-Commerce-React.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd React_E-Commerce
+  cd React-Ecommerce
 ```
 
 Install dependencies
@@ -62,6 +56,6 @@ Just raise an issue, we will discuss it.
 
 ## Feedback
 
-If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
+If you have any feedback, please reach out to me [here](https://e-commercee-ibsg.onrender.com/)
 
 
