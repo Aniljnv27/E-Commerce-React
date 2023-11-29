@@ -29,7 +29,7 @@ const AboutPage = () => {
             <div className="card h-100">
               <img className="card-img-top img-fluid" src="https://ackodrive.com/_next/image/?url=https%3A%2F%2Fackodrive-assets.s3.amazonaws.com%2Fmedia%2Ftest_3U1Olx0.png&w=1920&q=75" alt="" height={160} />
               <div className="card-body">
-                <h5 className="card-title text-center">Mens's Clothing</h5>
+                <h5 className="card-title text-center">EV Car</h5>
               </div>
             </div>
           </div>
@@ -37,7 +37,7 @@ const AboutPage = () => {
             <div className="card h-100">
               <img className="card-img-top img-fluid" src="https://ackodrive.com/_next/image/?url=https%3A%2F%2Fackodrive-assets.s3.amazonaws.com%2Fmedia%2Ftest_C9jRoZl.png&w=1920&q=75" alt="" height={160} />
               <div className="card-body">
-                <h5 className="card-title text-center">Women's Clothing</h5>
+                <h5 className="card-title text-center">Sport Cars</h5>
               </div>
             </div>
           </div>
